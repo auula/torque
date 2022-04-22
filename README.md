@@ -1,2 +1,2 @@
-# bigmap
-Bigmap is a local high performance cache library.
+# Torque
+Torque is a local high performance cache library.
